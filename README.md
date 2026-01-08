@@ -1,4 +1,4 @@
-# Inventory & Stock Management System
+# Inventory & Stock Management System FINAL PROJESİ
 
 Web tabanlı bir envanter ve stok yönetim sistemi. Orta ölçekli işletmelerin iç operasyonlarını düzenlemek amacıyla geliştirilmiştir.
 
@@ -30,5 +30,14 @@ Web tabanlı bir envanter ve stok yönetim sistemi. Orta ölçekli işletmelerin
 - **Satıcı:** Satış işlemlerini gerçekleştirir.
 - **Depo Elemanı:** Stok transfer ve hareketlerini yönetir.
 
+  > Aşağıdaki hesaplar yalnızca demo amaçlıdır.
 
-Final projesi
+**Super Admin** ID: 01973 
+
+**Admin** ID: 70375                     
+
+**Satıcı** ID: 70781
+
+**Depo Elemanı** ID: 70628
+
+ŞİFRE: Sistem25. (Tüm hesaplar için geçerli)
