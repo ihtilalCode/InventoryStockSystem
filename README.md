@@ -30,5 +30,5 @@ Web tabanlı bir envanter ve stok yönetim sistemi. Orta ölçekli işletmelerin
 - **Satıcı:** Satış işlemlerini gerçekleştirir.
 - **Depo Elemanı:** Stok transfer ve hareketlerini yönetir.
 
-## Not
-Bu proje akademik amaçlı geliştirilmiştir.
+
+Final projesi
